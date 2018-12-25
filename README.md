@@ -17,5 +17,5 @@ The arguments includes:
 
 Run like
 ```
-python googlesearchimage.py -k BMW --format jpg -l 110 -t photo -o car --chromedriver ./Desktop/googlesearchimage/chromedriver -sa
+python googlesearchimage.py -k BMW -f jpg -l 110 -t photo -o car -cd ./Desktop/googlesearchimage/chromedriver -sa
 ```
