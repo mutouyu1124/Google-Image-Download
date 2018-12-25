@@ -2,6 +2,8 @@
 ## [googlesearchimage.py](https://github.com/mutouyu1124/Google-Image-Download/blob/master/googlesearchimage.py)
 Use this script to download images from Google. 
 
+**This script will likely not work for python 3.X due to various encoding issues**
+
 If you would want to download more than 100 images per keyword, you would need to install Selenium library along with chromedriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads), and then use '--chromedriver' or '-cd' argument to specify the path of chromedriver that you have downloaded in your machine. 
 
 The arguments includes:
